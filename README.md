@@ -1,2 +1,2 @@
 # final_project
-project for stepik-course
+project for stepik Selenium Auto-Testing course
